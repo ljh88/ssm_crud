@@ -1,0 +1,7 @@
+com\ssm\common\MessageResponse.class
+com\ssm\common\PageInfoResponse.class
+com\ssm\common\DataResponse.class
+com\ssm\common\MessageRequest.class
+com\ssm\common\PageInfoRequest.class
+com\ssm\common\DataRequest.class
+com\ssm\enums\ErrorCode.class
